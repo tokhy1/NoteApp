@@ -4,7 +4,7 @@ It offers a feature-rich experience for users to create, organize, and manage th
 
 
 
-## Preview
+## App Preview
 
 ![App UI](screenshots/mainscreen.png)
 ![App UI](screenshots/addnotescreen.png)
