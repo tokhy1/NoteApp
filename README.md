@@ -30,6 +30,7 @@ In This App i used:
 - Jetpack Compose for the design
 - RoomDatabase for Local database 
 - MVVM architecture pattern
+- Use Cases
 
 
 
