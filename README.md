@@ -6,9 +6,7 @@ It offers a feature-rich experience for users to create, organize, and manage th
 
 ## App Preview
 
-![App UI](screenshots/mainscreen.png)
-![App UI](screenshots/addnotescreen.png)
-![App UI](screenshots/notesscreen.png)
+![App UI](screenshots/design.png)
 
 
 
